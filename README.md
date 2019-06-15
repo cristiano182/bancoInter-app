@@ -2,4 +2,4 @@
 
 Clone interface aplicativo banco inter
 
-![test image size](preview.gif){:height="100px" width="400px"}
+![test image size](preview.gif?v=4&s=200)
