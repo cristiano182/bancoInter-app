@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react';
 import { createStackNavigator, createAppContainer, createDrawerNavigator } from 'react-navigation'
-import { TouchableOpacity } from "react-native"
+import { TouchableOpacity, Image } from "react-native"
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 import Login from '../screens/login'
@@ -23,7 +23,7 @@ const Main = createStackNavigator({
         headerTintColor: "white",
         headerRight: (
           <TouchableOpacity style={{ marginRight: 10 }} onPress={() => navigation.toggleDrawer()}>
-            <Icon name="bars" size={26} color='white' />
+            <Icon name='bars' size={24}  color={'white'}/>
           </TouchableOpacity>
         )
       })
