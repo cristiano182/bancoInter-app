@@ -33,13 +33,16 @@ react-native run-android
 Construído com
 
 
-React-Native-Camera - API para acesso a recursos da camera
+React-Native-Camera:  API para acesso a recursos da camera
 
-React-Native - Construa o aplicativo nativo usando JavaScript e React
+React-Native:  Construa o aplicativo nativo usando JavaScript e React
 
-React-Navigation - Roteador
+React-Navigation: Roteador
 
-ESlint - Linter
+ESlint:  Linter
 
-Babel - JavaScript Compiler
+Babel: JavaScript Compiler
+
+React-Native-Vector-Icons: API de icons (FontAwesome)
+   
 
