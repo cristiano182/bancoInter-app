@@ -2,4 +2,4 @@
 
 Clone interface aplicativo banco inter
 
-![Alt Gif](preview.gif)
+![Alt Gif](preview.gif=24x48))
