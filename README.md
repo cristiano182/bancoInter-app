@@ -2,4 +2,5 @@
 
 Clone interface aplicativo banco inter
 
-<img src="https://github.com/cristiano182/bancoInter-app/preview.gif" width="100">
+
+<img src="https://github.com/cristiano182/bancoInter-app/blob/master/preview.gif" alt="preview" width="200"/>
