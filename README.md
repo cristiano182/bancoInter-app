@@ -2,4 +2,4 @@
 
 Clone interface aplicativo banco inter
 
-![Alt Text](preview.mp4)
+![Alt Video](preview.mp4)
