@@ -35,7 +35,7 @@ Construído com
 
 React-Native-Camera:  API para acesso a recursos da camera
 
-React-Native:  Construa o aplicativo nativo usando JavaScript e React
+React-Native:  Construir o aplicativo nativo usando JavaScript e React
 
 React-Navigation: Roteador
 
