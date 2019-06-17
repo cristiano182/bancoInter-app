@@ -3,7 +3,7 @@
 Clone interface aplicativo banco inter
 
 
-<img src="https://github.com/cristiano182/bancoInter-app/blob/master/preview.gif" alt="preview" width="200"/>
+<img src="https://github.com/cristiano182/bancoInter-app/blob/master/preview.gif" alt="preview" width="400"/>
 
 # Começando
 Pré-requisitos Para executar este projeto no modo de desenvolvimento, 
